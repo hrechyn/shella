@@ -7,8 +7,6 @@ public class Main {
         System.out.println("Vitalik");
         System.out.println("hrechyn");
 	 System.out.println("kleo");
-
-        System.out.println("Vitalik(1)");
         System.out.println("Vitalik(2)");
 
     }
